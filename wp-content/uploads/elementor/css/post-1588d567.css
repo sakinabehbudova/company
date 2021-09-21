@@ -1,0 +1,120 @@
+.elementor-1588 .elementor-element.elementor-element-0dcb507>.elementor-container {
+	max-width: 1200px;
+}
+
+.elementor-1588 .elementor-element.elementor-element-0dcb507>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+	align-content: center;
+	align-items: center;
+}
+
+.elementor-1588 .elementor-element.elementor-element-0dcb507>.elementor-background-overlay {
+	opacity: 0.2;
+    transition: background 0.2s, border-radius 0.3s, opacity 0.2s;
+    background: black;
+}
+
+.elementor-1588 .elementor-element.elementor-element-0dcb507 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+
+.elementor-1588 .elementor-element.elementor-element-f9b3b50 {
+	text-align: left;
+	opacity: 1;
+	transform: rotate(0deg);
+}
+
+.elementor-1588 .elementor-element.elementor-element-f9b3b50>.elementor-widget-container {
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	background-color: rgba(2, 1, 1, 0);
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-menu-toggle {
+	margin-left: auto;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu .elementor-item {
+	font-weight: bold;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--main .elementor-item {
+	color: #FFFFFF;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown a,
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-menu-toggle {
+	color: #FFFFFF;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown {
+	background-color: rgba(255, 255, 255, 0.64);
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown a:hover,
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown a.highlighted,
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-menu-toggle:hover {
+	color: #000000;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown a.elementor-item-active {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown .elementor-item,
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown .elementor-sub-item {
+	font-size: 14px;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b {
+	opacity: 1;
+	transform: rotate(0deg);
+}
+
+@media(max-width:767px) {
+	.elementor-1588 .elementor-element.elementor-element-286cdf4 {
+		width: 20%;
+	}
+	.elementor-1588 .elementor-element.elementor-element-f9b3b50 {
+		text-align: center;
+	}
+	.elementor-1588 .elementor-element.elementor-element-37ed5c3 {
+		width: 80%;
+	}
+}
+
+@media(min-width:768px) {
+	.elementor-1588 .elementor-element.elementor-element-286cdf4 {
+		width: 30%;
+	}
+	.elementor-1588 .elementor-element.elementor-element-37ed5c3 {
+		width: 70%;
+	}
+}
+
+
+/* Start custom CSS for section, class: .elementor-element-0dcb507 */
+
+
+/*FOR links and icons*/
+
+.elementor-1588 .elementor-element.elementor-element-0dcb507.elementor-sticky--effects {
+	color: #404349!important;
+}
+
+
+/* End custom CSS */
+
+
+/* Start custom CSS */
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--dropdown a,
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-menu-toggle {
+	color: #0c0d0e;
+}
+
+
+/* End custom CSS */

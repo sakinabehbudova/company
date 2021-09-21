@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Helvetica"!important;
+}
+
+.elementor-section.elementor-section-boxed > .elementor-container {
+	max-width: 100%!important;
+}
+
+.elementor-location-header .elementor-section.elementor-section-boxed > .elementor-container {
+	max-width: 1200px!important;
+}
+
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+	padding: 0!important;
+}
+
+.page-header {
+	display: none!important;
+}
+
+.elementor-1588 .elementor-element.elementor-element-e2c6b3b .elementor-nav-menu--main .elementor-item {
+	color: #000!important;
+}
