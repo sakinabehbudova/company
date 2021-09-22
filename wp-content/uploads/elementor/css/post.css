@@ -562,3 +562,153 @@ color: grey !important;
   padding: 0 10px;
   margin-bottom: 20px;
 }
+#menu-1-e2c6b3b a{
+cursor: pointer;
+}
+/* .carousel1 {
+  width: 80vw;
+  height: 250px;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+.carousel1:hover .controls {
+  opacity: 1;
+}
+.carousel1 .controls {
+  opacity: 0;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  justify-content: space-between;
+  width: 100%;
+  z-index: 99999;
+  transition: all ease 0.5s;
+}
+.carousel1 .controls .control {
+  margin: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.7);
+  opacity: 0.5;
+  transition: ease 0.3s;
+  cursor: pointer;
+}
+.carousel1 .controls .control:hover {
+  opacity: 1;
+}
+.carousel1 .slides {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  display: flex;
+  width: 100%;
+  transition: 1s ease-in-out all;
+}
+.carousel1 .slides .slide {
+  min-width: 100%;
+  min-height: 250px;
+  height: auto;
+} */
+
+
+/* Width of carousel */
+#window, #slide-container {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+/* Height of carousel */
+#slide-container {
+ height: 450px;
+ overflow: hidden; 
+ position: relative; 
+}
+
+.slide {
+ width: 100%; 
+ min-height: 200px; 
+}
+
+.slides5 {
+ display: block; 
+}
+
+/* Style of arrows */
+.arrow {
+ color: white; 
+ font-size: 26px; 
+ position: absolute; 
+ top: 50%; 
+ transform: translate(0%, -50%); 
+ padding: 16px; 
+ background-color: rgba(0,0,0,0); 
+ transition: background-color 0.3s ease; 
+}
+
+.arrow:hover {
+ cursor: pointer;
+ background-color: grey; 
+}
+
+#next5 {
+ left: 100%; 
+ transform: translate(-100%, -50%); 
+ border-radius: 4px 0px 0px 4px; 
+}
+
+#previous5 {
+ border-radius: 0px 4px 4px 0px; 
+}
+
+#text-bar {
+  display: none;
+ background-color: grey;
+ width: 100%;
+ height: 36px; 
+ position: absolute; 
+ top: 100%;
+ transform: translate(0%, -100%);  
+ text-align: center; 
+ height: 36px;
+ line-height: 36px;
+}
+
+#place {
+ padding: 0px;
+ margin: 0px; 
+ color: white;
+ position: relative;
+ display: inline-block;
+}
+
+#dotsContainer {
+ width: 100%;
+ height: 20px; 
+ text-align: center; 
+}
+
+.dots {
+ width: 8px;
+ height: 8px;
+ background-color: rgba(0,0,0,0.2); 
+ border-radius: 100%; 
+ display: inline-block; 
+ margin: 8px 2px; 
+}
+
+.dots:hover {
+ cursor: pointer; 
+ background-color: rgba(0,0,0,0.4);
+}
+
+.activeDot {
+ background-color: rgba(0,0,0,0.6); 
+}
