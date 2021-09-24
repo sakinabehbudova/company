@@ -177,7 +177,9 @@
 	font-size: 18px;
 	font-weight: 400;
 }
-
+ .active-header{
+	color: #3DB2FF !important;
+}
 .elementor-3124 .elementor-element.elementor-element-003e203 {
 	text-align: center;
 	opacity: 1;
@@ -1389,3 +1391,7 @@
 
 
 /* End Custom Fonts CSS */
+
+.elementor-element-6e51556 img{
+	width:80%;
+}

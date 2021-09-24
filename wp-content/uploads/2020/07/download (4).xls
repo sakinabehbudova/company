@@ -1,0 +1,378 @@
+<table border='2px'><tr bgcolor='#87AFC6'><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="№: activate to sort column ascending">№</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="AD : activate to sort column ascending">AD </th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="SOYAD : activate to sort column ascending">SOYAD </th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Ata adı: activate to sort column ascending">Ata adı</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Doğum tarixiniz: activate to sort column ascending">Doğum tarixiniz</th><th class="sorting_disabled" rowspan="1" colspan="1" style="width: 100px;" aria-label="Təhsil aldığınız Universitet">Təhsil aldığınız Universitet</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Təhsil aldığınız Ixtisas: activate to sort column ascending">Təhsil aldığınız Ixtisas</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Universitetdən məzun olacağınız il: activate to sort column ascending">Universitetdən məzun olacağınız il</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Təhsil aldığınız bölmə : activate to sort column ascending">Təhsil aldığınız bölmə </th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Əlaqə nömrəsi : activate to sort column ascending">Əlaqə nömrəsi </th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Yaşadığınız ünvan: activate to sort column ascending">Yaşadığınız ünvan</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Hazırlaşmaq istədiyiniz fənnlər: activate to sort column ascending">Hazırlaşmaq istədiyiniz fənnlər</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Hansı vaxtlarda hazırlaşmanız mümkün deyil: activate to sort column ascending">Hansı vaxtlarda hazırlaşmanız mümkün deyil</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Bakalavr dərəcəsinə qəbul balınız: activate to sort column ascending" style="display: none;">Bakalavr dərəcəsinə qəbul balınız</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Bakalavr imtahanı zamanı riyaziyyat fənnindən balınız: activate to sort column ascending" style="display: none;">Bakalavr imtahanı zamanı riyaziyyat fənnindən balınız</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Bakalavr imtahanı zamanı xarici dil fənnindən balınız: activate to sort column ascending" style="display: none;">Bakalavr imtahanı zamanı xarici dil fənnindən balınız</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Bakalavr imtahanı zamanı seçdiyiniz xarici dil  : activate to sort column ascending" style="display: none;">Bakalavr imtahanı zamanı seçdiyiniz xarici dil  </th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Məntiq qrupu üzrə seçiminiz : activate to sort column ascending" style="display: none;">Məntiq qrupu üzrə seçiminiz </th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Necə hazırlaşmaq istəyirsiz: activate to sort column ascending" style="display: none;">Necə hazırlaşmaq istəyirsiz</th><th class="sorting" tabindex="0" aria-controls="headerTable" rowspan="1" colspan="1" aria-label="Delete: activate to sort column ascending" style="display: none;">Delete</th></tr><td tabindex="0"><span class="label label-danger">1</span></td>
+                        <td><span class="label label-success">Gülşən</span></td>
+                        <td><span class="label label-success">Əhmədova</span></td>
+                        <td><span class="label label-success">Müşfiq</span></td>
+                        <td>2002-04-10</td>
+                        <td>Gdu</td>
+                        <td>Tarix m</td>
+                        <td>2022</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0553155052</td>
+                        <td>Samux rayon</td>
+                        
+                        
+                        <td>
+                                                        </td>
+                        <td></td>
+                        <td style="display: none;">451</td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;">fərq etmir</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/281&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/281&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">2</span></td>
+                        <td><span class="label label-success">Cemile</span></td>
+                        <td><span class="label label-success">Ismayilzade</span></td>
+                        <td><span class="label label-success">Ceyhun</span></td>
+                        <td>1998-05-04</td>
+                        <td>ADAU</td>
+                        <td>Iqtisadiyyat</td>
+                        <td>2021</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0557146766</td>
+                        <td>Heyder Eliyev pr</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            rus-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td>Gunorta 2ye qeder</td>
+                        <td style="display: none;">216</td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;">Rus dili</td>
+                        <td style="display: none;">Məntiq qrupu üzrə seçiminiz</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/279&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/279&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">3</span></td>
+                        <td><span class="label label-success">gulnare</span></td>
+                        <td><span class="label label-success">tagiyeva</span></td>
+                        <td><span class="label label-success">xaliq</span></td>
+                        <td>1995-06-06</td>
+                        <td>gdu</td>
+                        <td>musiqi</td>
+                        <td>2020</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0555337417</td>
+                        <td>Gəncə ş.</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            məntiq ,
+                            
+                             
+
+                            
+                            informatika ,
+                            
+                                                        
+                                                        </td>
+                        <td>2ci novbe olsun</td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;">rus dili</td>
+                        <td style="display: none;">Şəhriyar və İsa müəllim</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/271&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/271&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">4</span></td>
+                        <td><span class="label label-success">Əmrah</span></td>
+                        <td><span class="label label-success">Hüseynov</span></td>
+                        <td><span class="label label-success">Məlik</span></td>
+                        <td>2021-09-23</td>
+                        <td>ADAU</td>
+                        <td>Baytarliq</td>
+                        <td>2020</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>775028191</td>
+                        <td>Göygöl rayon Balcılı kend</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            məntiq ,
+                            
+                             
+
+                            
+                            informatika ,
+                            
+                             
+
+                            
+                            ingilis-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td></td>
+                        <td style="display: none;">298</td>
+                        <td style="display: none;">60</td>
+                        <td style="display: none;">Yoxdur</td>
+                        <td style="display: none;">Yoxdur</td>
+                        <td style="display: none;">Şəhriyar və İsa müəllim</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/269&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/269&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">5</span></td>
+                        <td><span class="label label-success">Həsən</span></td>
+                        <td><span class="label label-success">Ələsgərov</span></td>
+                        <td><span class="label label-success">Vasif</span></td>
+                        <td>2001-06-06</td>
+                        <td>Azərbaycan Texnalogiya Universteti</td>
+                        <td>Dövlət və Bələdiyyə idarə etməsi</td>
+                        <td>2023</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0556325414</td>
+                        <td>Şəmkir rayonu Aşağı Seyfəli kəndi.</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            məntiq ,
+                            
+                             
+
+                            
+                            informatika ,
+                            
+                             
+
+                            
+                            ingilis-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td>01.10.2021</td>
+                        <td style="display: none;">Dəqiq bilmirəm</td>
+                        <td style="display: none;">10</td>
+                        <td style="display: none;">12</td>
+                        <td style="display: none;">İngilis dili</td>
+                        <td style="display: none;">fərq etmir</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/268&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/268&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">6</span></td>
+                        <td><span class="label label-success">Elçin</span></td>
+                        <td><span class="label label-success">Həşimov</span></td>
+                        <td><span class="label label-success">Dərgah oglu</span></td>
+                        <td>2000-04-18</td>
+                        <td>ADAU</td>
+                        <td>İqtisadiyyat</td>
+                        <td>2022</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0513554851</td>
+                        <td>Gence seheri</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            informatika ,
+                            
+                             
+
+                            
+                            ingilis-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;">40</td>
+                        <td style="display: none;">Məntiq qrupu üzrə seçiminiz</td>
+                        <td style="display: none;">secilmeyib</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/267&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/267&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">7</span></td>
+                        <td><span class="label label-success">Yahya</span></td>
+                        <td><span class="label label-success">Babayev</span></td>
+                        <td><span class="label label-success">Polad</span></td>
+                        <td>2000-11-13</td>
+                        <td>ADAU</td>
+                        <td>Maliyyə</td>
+                        <td>2022</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0777308999</td>
+                        <td>Q.Etibar 43</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            məntiq ,
+                            
+                             
+
+                            
+                            informatika ,
+                            
+                             
+
+                            
+                            ingilis-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td>univer 1 ci smen</td>
+                        <td style="display: none;">290</td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;">ingilis dili</td>
+                        <td style="display: none;">fərq etmir</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/266&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/266&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">8</span></td>
+                        <td><span class="label label-success">Aytən</span></td>
+                        <td><span class="label label-success">Ağamirova</span></td>
+                        <td><span class="label label-success">Şahin</span></td>
+                        <td>2000-09-17</td>
+                        <td>Gəncə Dövlet Üniversiteti</td>
+                        <td>Tesviri incesenet müellimliyi</td>
+                        <td>2021</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0508595400</td>
+                        <td>Gence ş Nizami 16</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            məntiq ,
+                            
+                             
+
+                            
+                            informatika ,
+                            
+                             
+
+                            
+                            ingilis-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td></td>
+                        <td style="display: none;">69</td>
+                        <td style="display: none;">20</td>
+                        <td style="display: none;">29</td>
+                        <td style="display: none;">İngilis dili</td>
+                        <td style="display: none;">Şəhriyar və İsa müəllim</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/265&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/265&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr><td tabindex="0"><span class="label label-danger">9</span></td>
+                        <td><span class="label label-success">Oqtay</span></td>
+                        <td><span class="label label-success">Babayev</span></td>
+                        <td><span class="label label-success">Elşən</span></td>
+                        <td>2001-10-13</td>
+                        <td>UTECA</td>
+                        <td>Logistika və nəqliyyat texnologiyalar mühəndisliyi</td>
+                        <td>2022</td>
+
+                        
+                        <td>azerbaycan</td>
+                        
+                        <td>0557477229</td>
+                        <td>Gəncə ş.</td>
+                        
+                        
+                        <td>
+                                                         
+
+                            
+                            ingilis-dili ,
+                            
+                                                        
+                                                        </td>
+                        <td>seher 8-10 boşam</td>
+                        <td style="display: none;">263</td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;"></td>
+                        <td style="display: none;">ingilis dili</td>
+                        <td style="display: none;">Məntiq qrupu üzrə seçiminiz</td>
+                        <td style="display: none;">əyani</td>
+                        <td style="display: none;">
+                            <a class="btn btn-danger " onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/264&quot;)">
+                                <i onclick="checkDeleteConfrim(&quot;https://mindart.az/admin/qeydiyyat/destroy/264&quot;)" style="color: red;" aria-hidden="true" title="Sil"></i>DELETE </a>
+                        </td>
+
+
+                    </tr></table>
